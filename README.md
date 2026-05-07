@@ -49,7 +49,7 @@ On travaille dans le script __*MorphTerrain*__. Il doit gèrer une animation de 
 
 # Rendu
 
-* Par mail a antoine.collot@live.com
+
 * Sujet de mail TPTerrain2026_GroupeX, en remplacant X par le numero du groupe
 * Corps de mail simple, recapiltuler les noms des membres du groupe.
 * Uploader un *zip* contenant les dossiers `Assets`, `ProjectSettings` et `Packages` dans un drive ou sur wetransfer (ou équivalent).
